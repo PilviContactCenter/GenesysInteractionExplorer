@@ -1,4 +1,4 @@
-# 📊 Genesys CSV Query Tool
+# 📊 Genesys CSV Interaction Query Tool
 
 A powerful, browser-based tool for exploring and analyzing Genesys Cloud interaction exports. Query your call center data using simple SQL-like commands — no technical expertise required!
 
